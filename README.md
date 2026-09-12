@@ -1,4 +1,4 @@
-Description:
+**Description:**
 
 
 Plants vs. Zombies 2 Rebalanced is a fan game made to rebalance the experience of Plants vs. Zombies 2 and completely rework some plants, zombies worlds and more.
@@ -11,7 +11,7 @@ This game is still in its beta.
 
 
 
-Installation:
+**Installation:**
 
 
 To install Plants vs. Zombies 2 Gardendless, go to: https://pvzge.com/en/download/
