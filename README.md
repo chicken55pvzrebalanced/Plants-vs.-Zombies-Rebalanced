@@ -20,7 +20,7 @@ Enable worldmap-json from gpNext(press f9 to open) / Experimental,
 
 To access the gpNext/packs, press f9 and "open folder" on the bottom.
 
-For more, click [here](https://pvzge.com/en/)!
+For more, click [here](https://pvzge.com/en/guide/)!
 
 
 
