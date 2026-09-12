@@ -14,7 +14,7 @@ This game is still in its beta.
 # Installation
 
 
-To install Plants vs. Zombies 2 Gardendless, click [here]((https://pvzge.com/en/download/))
+To install Plants vs. Zombies 2 Gardendless, click [here](https://pvzge.com/en/download/).
 
 Enable worldmap-json from gpNext(press f9 to open) / Experimental,
 
