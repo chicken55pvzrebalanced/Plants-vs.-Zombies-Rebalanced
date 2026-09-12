@@ -16,4 +16,8 @@ To install Plants vs. Zombies 2 Gardendless, go to: https://pvzge.com/en/downloa
 
 To access the gpNext/packs, press f9 and "open folder" on the bottom.
 
-For more, go to pvzge.com/en!
+For more, go to pvzge.com/en
+
+
+
+Thank you for visiting this GitHub repo!
