@@ -7,12 +7,16 @@ This mod is based off Plants vs. Zombies 2 Gardendless and requires it to be ins
 
 To install, move the ZIP file inside the gpNext/packs directory inside of Plants vs. Zombies 2 Gardnedless.
 
+This game is still in its beta.
+
 
 
 Installation:
 
 
 To install Plants vs. Zombies 2 Gardendless, go to: https://pvzge.com/en/download/
+
+Enable worldmap-json from gpNext(press f9 to open) / Experimental,
 
 To access the gpNext/packs, press f9 and "open folder" on the bottom.
 
