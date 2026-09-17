@@ -23,5 +23,11 @@ To access the gpNext/packs, press f9 and "open folder" on the bottom.
 For more, click [here](https://pvzge.com/en/guide/)!
 
 
+# Patches
+Fixed Mega Gatling Pea animations.
+Fixed Gatling Pea animations(Partially).
+Chomper and Toadstool changed.
+Dusk Lobber reworked.
+
 
 **Thank you for visiting this GitHub repo!**
