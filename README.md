@@ -3,7 +3,7 @@
 
 Plants vs. Zombies 2 Rebalanced is a fan game made to rebalance the experience of Plants vs. Zombies 2 and completely rework some plants, zombies worlds and more.
 
-This mod is based off [Plants vs. Zombies 2 Gardnedless](https://pvzge.com/en/) and requires it to be installed.
+This mod is based off [Plants vs. Zombies 2 Gardendless](https://pvzge.com/en/) and requires it to be installed.
 
 To install, move the ZIP file inside the gpNext/packs directory inside of Plants vs. Zombies 2 Gardnedless.
 
